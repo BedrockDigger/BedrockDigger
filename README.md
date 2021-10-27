@@ -1,4 +1,4 @@
-An `undefined` generator, `NullFriendException` thrower, dependency breaker, bootloop summoner and kernel commits kanger.
+An `undefined` generator, a `NullFriendException` thrower, a dependency breaker and a commit kanger.
 
 Have a look at these stats if you're still uncertain about how noob I am.
 <!--START_SECTION:waka-->
