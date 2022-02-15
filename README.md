@@ -8,6 +8,8 @@ Have a look at these stats if you're still uncertain about how noob I am.
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
+Total: 7 hrs 14 mins
+
 Java    7 hrs           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄   96.73 % 
 CLASS   14 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.23 % 
 ```
