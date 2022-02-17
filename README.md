@@ -6,11 +6,11 @@ An `undefined` generator, a `NullFriendException` thrower, a dependency breaker 
 Have a look at these stats if you're still uncertain about how noob I am.
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
+Week: 10 February, 2022 - 16 February, 2022
 
-Total: 7 hrs 30 mins
+Total: 5 hrs 44 mins
 
-Java    7 hrs 16 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄   96.88 % 
-CLASS   14 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.12 % 
+Java    5 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.93 % 
+CLASS   14 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.07 % 
 ```
 <!--END_SECTION:waka-->
