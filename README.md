@@ -1,5 +1,5 @@
-![harmony by kieed](https://key.erica.moe/files/c7513d04-584b-4723-a734-3f681e6f584f)
-###### [harmony](https://www.pixiv.net/artworks/68913973) by [kieed](https://www.pixiv.net/users/11525066)
+![花灯 by kieed](https://existentialis.me/files/9aae8453-3957-4387-a47d-0bed66ac6bb5)
+###### [花灯](https://www.pixiv.net/artworks/99774261) by [kieed](https://www.pixiv.net/users/11525066)
 
 An `undefined` generator, a `NullFriendException` thrower, a dependency breaker and a commit kanger.
 
