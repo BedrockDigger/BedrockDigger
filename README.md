@@ -14,7 +14,7 @@ Have a look at these stats if you're still uncertain about how noob I am.
 ```text
 From: 08 August 2022 - To: 15 August 2022
 
-Other   5 hrs 40 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.23 %
+Other   5 hrs 22 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.42 %
 ```
 
 <!--END_SECTION:waka-->
