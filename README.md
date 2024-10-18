@@ -7,10 +7,10 @@ Have a look at these stats if you're still uncertain about how noob I am.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2024 - To: 15 October 2024
+From: 09 October 2024 - To: 16 October 2024
 
-Other   1 hr 19 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀   90.85 %
-YAML    8 mins          ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.15 %
+Other   1 hr 19 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.33 %
+YAML    10 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.67 %
 ```
 
 <!--END_SECTION:waka-->
