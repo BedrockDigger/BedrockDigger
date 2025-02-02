@@ -7,7 +7,7 @@ Have a look at these stats if you're still uncertain about how noob I am.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2025 - To: 30 January 2025
+From: 24 January 2025 - To: 31 January 2025
 
 Other   38 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.89 %
 YAML    0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.11 %
