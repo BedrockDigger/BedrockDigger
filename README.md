@@ -7,12 +7,10 @@ Have a look at these stats if you're still uncertain about how noob I am.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 17 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-Other        32 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.67 %
-JavaScript   31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.97 %
-SQL          12 mins         ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.45 %
-Go           11 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.91 %
+Other   2 hrs 48 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   93.70 %
+Go      11 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.30 %
 ```
 
 <!--END_SECTION:waka-->
